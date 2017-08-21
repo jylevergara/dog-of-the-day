@@ -6,6 +6,7 @@ html, body {
 body {
 	align-items: center;
     background: url('http://www.mygraphichunt.com/wp-content/uploads/2015/08/wpid-dog-silhouettes-vector.jpg') center center;
+    background-repeat: repeat-y;
 	display: flex;
 	font-family: 'Raleway', sans-serif;
 	flex-direction: column;
