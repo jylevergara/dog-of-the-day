@@ -1,0 +1,49 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	align-items: center;
+    background: url('http://www.mygraphichunt.com/wp-content/uploads/2015/08/wpid-dog-silhouettes-vector.jpg') center center;
+	display: flex;
+	font-family: 'Raleway', sans-serif;
+	flex-direction: column;
+	justify-content: center;
+	overflow: scroll;
+}
+ button {
+     margin: 0 0 60px 0;
+ }
+
+h1 {
+  color: #dc7d7d;
+  font-family: 'Playfair Display', serif;
+  font-size: 3.75rem;
+  font-weight: 900;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  text-shadow: 0px 2px 4px rgba(34,62,66,.75);
+
+}
+
+h2 {
+	 color: #e44945;
+  font-family: Trebuchet MS;
+  font-size: 22px;
+  font-weight: 900;
+  margin: 0 0 60px 0;
+  text-align: center;
+  text-shadow: 0px 2px 4px rgba(162, 44, 44, 0.75);
+}
+
+
+#img {
+    max-height: 100%;
+    max-width: 100%;
+    width: 100%;
+}
+
+border {
+
+}
